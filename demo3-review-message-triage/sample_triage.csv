@@ -1,0 +1,19 @@
+id,channel,message,category,priority,reply,mode,review_required,data_label
+FAKE01,Shopify review,The mug arrived broken and the handle is loose.,complaint,high,I'm sorry the product fell short. Please share your order number and a photo so we can review the issue.,rule-based,yes,FAKE SAMPLE DATA
+FAKE02,TikTok Shop message,My delivery is late. Can you check it?,shipping issue,medium,I'm sorry about the delivery trouble. Please share your order number so we can check the tracking details.,rule-based,yes,FAKE SAMPLE DATA
+FAKE03,Amazon message,I would like a refund for this cap.,refund request,high,Thanks for reaching out. Please share your order number and reason for the return so we can review the options.,rule-based,yes,FAKE SAMPLE DATA
+FAKE04,Shopify review,Love the tote! Perfect for groceries.,praise,low,Thanks for sharing your feedback! We're glad you're enjoying it.,rule-based,yes,FAKE SAMPLE DATA
+FAKE05,TikTok Shop message,Does this mug fit a car cup holder?,question,medium,Thanks for your question. Please share the product or order details so we can help.,rule-based,yes,FAKE SAMPLE DATA
+FAKE06,Amazon review,The stitching is poor and I am disappointed.,complaint,high,I'm sorry the product fell short. Please share your order number and a photo so we can review the issue.,rule-based,yes,FAKE SAMPLE DATA
+FAKE07,Shopify message,Tracking has not updated for several days.,shipping issue,medium,I'm sorry about the delivery trouble. Please share your order number so we can check the tracking details.,rule-based,yes,FAKE SAMPLE DATA
+FAKE08,TikTok Shop message,Please return my money. I want a refund.,refund request,high,Thanks for reaching out. Please share your order number and reason for the return so we can review the options.,rule-based,yes,FAKE SAMPLE DATA
+FAKE09,Amazon review,Excellent quality and a great color.,praise,low,Thanks for sharing your feedback! We're glad you're enjoying it.,rule-based,yes,FAKE SAMPLE DATA
+FAKE10,Shopify message,How should I wash the canvas tote?,question,medium,Thanks for your question. Please share the product or order details so we can help.,rule-based,yes,FAKE SAMPLE DATA
+FAKE11,TikTok Shop review,The bottle leaks every time I use it.,complaint,high,I'm sorry the product fell short. Please share your order number and a photo so we can review the issue.,rule-based,yes,FAKE SAMPLE DATA
+FAKE12,Amazon message,My package never arrived.,shipping issue,medium,I'm sorry about the delivery trouble. Please share your order number so we can check the tracking details.,rule-based,yes,FAKE SAMPLE DATA
+FAKE13,Shopify message,Cancel my order and refund it please.,refund request,high,Thanks for reaching out. Please share your order number and reason for the return so we can review the options.,rule-based,yes,FAKE SAMPLE DATA
+FAKE14,TikTok Shop review,"Amazing cap, thanks!",praise,low,Thanks for sharing your feedback! We're glad you're enjoying it.,rule-based,yes,FAKE SAMPLE DATA
+FAKE15,Amazon message,Is this available in blue?,question,medium,Thanks for your question. Please share the product or order details so we can help.,rule-based,yes,FAKE SAMPLE DATA
+FAKE16,Shopify message,Urgent: the charger smells like smoke and feels unsafe.,complaint,high,I'm sorry the product fell short. Please share your order number and a photo so we can review the issue.,rule-based,yes,FAKE SAMPLE DATA
+FAKE17,TikTok Shop message,The wrong size arrived. I want a refund.,refund request,high,Thanks for reaching out. Please share your order number and reason for the return so we can review the options.,rule-based,yes,FAKE SAMPLE DATA
+FAKE18,Amazon message,"Great color, but does it come in a larger size?",question,medium,Thanks for your question. Please share the product or order details so we can help.,rule-based,yes,FAKE SAMPLE DATA

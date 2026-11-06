@@ -1,0 +1,3 @@
+# Daily at 09:00 local machine time; replace paths before adding to crontab.
+# This example runs CSV export only. Machine must be awake and online.
+0 9 * * * /absolute/path/to/python3 /absolute/path/to/automation-portfolio/demo1-competitor-price-tracker/scrape.py >> /absolute/path/to/books-job.log 2>&1

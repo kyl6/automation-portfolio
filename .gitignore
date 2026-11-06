@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+output/
+secrets/
+credentials/
+*service-account*.json
+*credentials*.json
+*.pem
+*.key
+.DS_Store

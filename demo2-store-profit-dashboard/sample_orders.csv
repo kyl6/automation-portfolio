@@ -1,0 +1,6 @@
+Name,Email,Financial Status,Currency,Subtotal,Shipping,Taxes,Total,Discount Amount,Refunded Amount,Created at,Lineitem quantity,Lineitem name,Lineitem price,Lineitem sku,Tags
+#FAKE1001,alex@example.invalid,paid,USD,60.00,5.00,0.00,65.00,10.00,0.00,2026-11-01 10:00:00 -0800,2,Trail Mug,20.00,MUG,FAKE SAMPLE DATA
+#FAKE1001,,,,,,,,,,,1,Canvas Tote,30.00,TOTE,
+#FAKE1002,blair@example.invalid,partially_refunded,USD,20.00,5.00,0.00,25.00,0.00,20.00,2026-11-02 10:00:00 -0800,1,Trail Mug,20.00,MUG,FAKE SAMPLE DATA
+#FAKE1003,alex@example.invalid,paid,USD,60.00,0.00,0.00,60.00,0.00,0.00,2026-11-03 10:00:00 -0800,2,Canvas Tote,30.00,TOTE,FAKE SAMPLE DATA
+#FAKE1004,casey@example.invalid,paid,USD,25.00,5.00,0.00,30.00,0.00,0.00,2026-11-04 10:00:00 -0800,1,Cotton Cap,25.00,CAP,FAKE SAMPLE DATA

@@ -1,0 +1,5 @@
+title,url,yesterday,today,change_percent,flag
+A Light in the Attic,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,50.00,44.00,-12.00,drop >5%
+Soumission,https://books.toscrape.com/catalogue/soumission_998/index.html,50.10,50.10,0.00,within 5%
+Tipping the Velvet,https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html,50.00,54.00,8.00,raise >5%
+Practice boundary book,https://books.toscrape.com/practice-boundary,20.00,21.00,5.00,within 5%
